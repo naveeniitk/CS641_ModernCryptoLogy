@@ -16,5 +16,5 @@
 # Q6 Codes
 <img width="436" alt="image" src="https://github.com/naveeniitk/CS641_ModernCryptoLogy/assets/75326491/10cb5cb0-146a-463c-a4fd-a51d5d3dabf5">
 
-Grades:
+# Grades:
 ![Uploading image.png…]()
