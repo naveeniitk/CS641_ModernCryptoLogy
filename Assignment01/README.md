@@ -17,4 +17,4 @@
 <img width="436" alt="image" src="https://github.com/naveeniitk/CS641_ModernCryptoLogy/assets/75326491/10cb5cb0-146a-463c-a4fd-a51d5d3dabf5">
 
 # Grades:
-![Uploading image.png…]()
+<img width="377" alt="image" src="https://github.com/naveeniitk/CS641_ModernCryptoLogy/assets/75326491/d6565e2e-7754-4d96-95c6-420bdbe25867">
