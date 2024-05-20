@@ -20,4 +20,4 @@
 <img width="501" alt="image" src="https://github.com/naveeniitk/CS641_ModernCryptoLogy/assets/75326491/68460487-f9e7-41a4-a9e8-cc7b2a17cfe2">
 
 # GRADE
-![Uploading image.png…]()
+<img width="363" alt="image" src="https://github.com/naveeniitk/CS641_ModernCryptoLogy/assets/75326491/43a2502b-91e7-495c-b334-c5a1ce394a65">
